@@ -1,0 +1,4 @@
+classScanner/Package-excludes=
+classScanner/Package-includes=stepDefinitions
+classScanner/use_project_settings=true
+eclipse.preferences.version=1
